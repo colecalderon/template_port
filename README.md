@@ -3,5 +3,3 @@
 This is a test
 
 new paragraph
-
-theme: minima
